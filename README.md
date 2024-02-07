@@ -1,4 +1,4 @@
-### Born2BeRoot 42 
+## Born2beRoot 42 
 
 ### Introduction
 
@@ -14,8 +14,8 @@ This project serves as a practical exercise in system administration: A secure v
 - **System Monitoring Script:** Develop a monitoring.sh bash script to provide regular system information updates on all terminals at predefined intervals.
 - **WordPress Website Setup:** Host a WordPress website using lighttpd, MariaDB, and PHP.
 
-### Thankyou!
-I would like to thank the authors mentioned in below for their valuable documentation.
+### Thank you!
+I would like to thank the authors mentioned below for their valuable documentation.
 
 - [Born2BeRoot Guide](https://github.com/pasqualerossi/Born2BeRoot-Guide/tree/main) by Pasquale Rossi.
 - [Born2beroot-Tutorial](https://github.com/gemartin99/Born2beroot-Tutorial.git) by gemartin
